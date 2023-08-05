@@ -1,6 +1,8 @@
 # diffusion_model
 Custom Diffusion Model. The forward process allows for linear, quadratic, sigmoid and cosine beta schedules. The backwards process uses U-Net to denoise.
 Trained on the mnist dataset. 
+<br>
+The Diffusion Model: https://lilianweng.github.io/posts/2021-07-11-diffusion-models/ 
 
 ## Dependencies
 - Pytorch
