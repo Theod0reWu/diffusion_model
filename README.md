@@ -3,6 +3,9 @@ Custom Diffusion Model. The forward process allows for linear, quadratic, sigmoi
 Trained on the mnist dataset. 
 <br>
 The Diffusion Model: https://lilianweng.github.io/posts/2021-07-11-diffusion-models/ 
+<br>
+UNET:
+![image](https://github.com/Theod0reWu/diffusion_model/assets/43049406/dccdfd5d-9eae-4ecc-88d5-7d4025cc2e42)
 
 ## Dependencies
 - Pytorch
